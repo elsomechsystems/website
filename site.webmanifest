@@ -1,12 +1,12 @@
 {
   "name": "Elsomech Systems",
   "short_name": "Elsomech",
-  "description": "Elsomech Systems website is under development.",
+  "description": "Elsomech Systems engineers mission-critical defence electronics, control systems and autonomous solutions.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#f6efe2",
-  "theme_color": "#f44800",
+  "background_color": "#f7f2e8",
+  "theme_color": "#071437",
   "icons": [
     {
       "src": "/favicon.svg",
